@@ -7,8 +7,8 @@
     "main.css": "/static/css/main.8d295e97.chunk.css",
     "main.js": "/static/js/main.b08f2d42.chunk.js",
     "main.js.map": "/static/js/main.b08f2d42.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3b7147ea.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3b7147ea.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4e75afb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4e75afb.js.map",
     "static/css/4.b31ea982.chunk.css": "/static/css/4.b31ea982.chunk.css",
     "static/js/4.ba55937d.chunk.js": "/static/js/4.ba55937d.chunk.js",
     "static/js/4.ba55937d.chunk.js.map": "/static/js/4.ba55937d.chunk.js.map",
@@ -56,7 +56,7 @@
     "static/media/wealth.6e6645d6.svg": "/static/media/wealth.6e6645d6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b7147ea.js",
+    "static/js/runtime-main.a4e75afb.js",
     "static/css/4.b31ea982.chunk.css",
     "static/js/4.ba55937d.chunk.js",
     "static/css/main.8d295e97.chunk.css",
